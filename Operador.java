@@ -15,7 +15,7 @@ public static void main (String[]args) {
 	// int x = 2+3;
 		int x = 6;
 	//	int y = ++x; pré incremento.
-	int y = x++;// pós incremento.
+	  int y = x++;// pós incremento.
 	
 	//double y = 7 - 4 + 3 * 2; primeiro vai  calcular multiplicação regra matematica.
 	
